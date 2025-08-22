@@ -19,9 +19,9 @@ Microsoft Excel : Filters, Condition Formatting, Find & replace , Flash Fill
 2. Department Names standardized into a single, correct column
 3. Final dataset is now accurate, consistent and ready for analysis
 
-## PROJECT FILES
+## Project Files
 - Montgomery_Fleet_Equipment_Inventory_FA_PART_1_START.CSV   ---> Original Dataset (Uncleaned)
 - Montgomery_Fleet_Equipment_Inventory_FA_PART_1_END.XLSX    ---> Cleaned Dataset
 
-## KEY TAKEAWAY
+## Key Takeaway
 This project demonstrates my ability to use **Excel's core data cleaning tools** to transform messy raw data into a clean, reliable dataset suitable for further analysis and reporting.
